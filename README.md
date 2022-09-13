@@ -19,4 +19,4 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=gmesquitaa&show_icons=true&title_color=fff&icon_color=6A5ACDff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmesquitaa&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/gmesquitaa)
+
